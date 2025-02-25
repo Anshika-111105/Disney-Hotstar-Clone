@@ -2,7 +2,7 @@
 
 A fully responsive and feature-rich **Disney+ Hotstar Clone** built using modern web technologies.
 
-![Hotstar Clone]() <!-- Add a demo screenshot -->
+![Hotstar Clone](https://github.com/Anshika-111105/Disney-Hotstar-Clone/blob/main/ss.png) <!-- Add a demo screenshot -->
 
 ## 🚀 Features
 - 🎥 Watch Movies & TV Shows  
