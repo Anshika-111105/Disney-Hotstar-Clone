@@ -2,7 +2,7 @@
 
 A fully responsive and feature-rich **Disney+ Hotstar Clone** built using modern web technologies.
 
-![Hotstar Clone]([https://your-image-link.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fdisney&psig=AOvVaw0DV7LQyp_qPJvCIrIcWykM&ust=1740237501353000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiC2YOI1YsDFQAAAAAdAAAAABAE)) <!-- Add a demo screenshot -->
+![Hotstar Clone]() <!-- Add a demo screenshot -->
 
 ## 🚀 Features
 - 🎥 Watch Movies & TV Shows  
