@@ -13,11 +13,7 @@ A fully responsive and feature-rich **Disney+ Hotstar Clone** built using modern
 - 🌙 Dark Mode  
 
 ## 🛠️ Technologies Used
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB / Firebase  
-- **Authentication:** Firebase Auth / JWT  
-- **API:** TMDB API for movie data  
+- **Frontend:** .HTML,CSS,React.js, Tailwind CSS  
 
 ## 📦 Installation
 
